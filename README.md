@@ -10,8 +10,8 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is complete:
 
-* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -28,16 +28,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/XDsyeD7.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The video walkthrough helped a lot. However, I spent a great deal of time trying to figure out how to do the github setup because when I clicked "next" after making the repository it made the new repository, yet it did not put in the files from my local folder.
-Therefore, I had to import the files manually to do this.
-Another challenge was dealing with the layout, but I found out that for now I have to stick with one iPhone model that works best for me.
-I plan on doing more in the time being. For now, I wanted to submit the required features for the app.
+The video walkthrough helped a lot. 
+However, I spent a great deal of time trying to figure out how to do the github setup because when I clicked "next" after making the repository it made the new repository, yet it did not put in the files from my local folder. Therefore, I had to import the files manually to do this. Another challenge was dealing with the layout, but I found out that for now I have to stick with one iPhone model that works best for me. 
+I plan on doing more in the time being. 
+For now, I wanted to submit the required features for the app.
+
 
 ## License
 
