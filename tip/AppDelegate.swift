@@ -16,7 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         let navigationFont = UIFont(name: "Noteworthy", size: 24)!
-        
+                
         let navigationFontAttributes = [NSAttributedString.Key.font: navigationFont]
         
         UINavigationBar.appearance().titleTextAttributes = navigationFontAttributes

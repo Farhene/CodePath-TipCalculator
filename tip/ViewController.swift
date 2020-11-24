@@ -20,6 +20,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        self.title = "$Cute Tippy$"
+        
     }
     @IBAction func onTap(_ sender: Any) {
         view.endEditing(true)
