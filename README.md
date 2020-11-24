@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] I researched to make the title of the app be a cute specific font and size style as well as changing the color of the bar.
+- [x] I also added app icons of all sizes as well as edited the launch screen to look prettier.
 
 ## Video Walkthrough
 
@@ -36,6 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 The video walkthrough helped a lot. 
 However, I spent a great deal of time trying to figure out how to do the github setup because when I clicked "next" after making the repository it made the new repository, yet it did not put in the files from my local folder. Therefore, I had to import the files manually to do this. Another challenge was dealing with the layout, but I found out that for now I have to stick with one iPhone model that works best for me. 
+Another challenge was trying to implement dark mode while also keeping my cute colors as the default. I do plan on trying dark mode later.
 I plan on doing more in the time being. 
 For now, I wanted to submit the required features for the app.
 
